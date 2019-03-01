@@ -1,5 +1,5 @@
 {
-  "name": "npmregistrytest",
+  "name": "zacknpmregistrytest",
   "version": "1.0.0",
   "description": "To test npm registry publishing",
   "main": "index.js",
